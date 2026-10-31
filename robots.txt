@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://syaifulardani12.github.io/Mikrolink/sitemap.xml
